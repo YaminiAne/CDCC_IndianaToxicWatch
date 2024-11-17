@@ -101,3 +101,6 @@ Scaling the Dashboard: Another challenge lies in scaling the dashboard to handle
 Effective Communication: While the dashboard provides valuable insights, ensuring that users fully understand and act on this information requires effective communication. Presenting complex environmental and health data in a way that is both accessible and actionable will be key to maximizing its impact.
 
 Story: https://public.tableau.com/shared/RC478TN4T?:display_count=n&:origin=viz_share_link
+
+Why Tableau:
+For public access to the dashbboard and interactive features.
