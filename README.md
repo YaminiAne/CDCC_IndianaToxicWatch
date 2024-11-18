@@ -1,6 +1,6 @@
 Story: https://public.tableau.com/shared/RC478TN4T?:display_count=n&:origin=viz_share_link
-Why Tableau: For public access to the dashbboard and interactive features.
 
+Why Tableau: For public access to the dashbboard and interactive features.
 #### Data Collection:
 Water Contaminants: Voluntary Remediation Program (Indiana IDEM)
 Air Contaminants: Air Quality Data (Indiana IDEM)
