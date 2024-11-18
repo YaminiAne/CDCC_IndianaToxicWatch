@@ -1,3 +1,6 @@
+Story: https://public.tableau.com/shared/RC478TN4T?:display_count=n&:origin=viz_share_link
+Why Tableau: For public access to the dashbboard and interactive features.
+
 #### Data Collection:
 Water Contaminants: Voluntary Remediation Program (Indiana IDEM)
 Air Contaminants: Air Quality Data (Indiana IDEM)
@@ -99,8 +102,3 @@ Community Engagement & Crowdsourced Data: Introducing a crowdsourced reporting f
 Data Accuracy & Completeness: One of the biggest challenges is ensuring data accuracy and completeness, especially given the gaps in historical pollution data. Many areas may not have consistent monitoring stations, which can leave data gaps in certain regions. Overcoming these gaps, either through enhanced data collection or more robust predictive modeling, will be essential.
 Scaling the Dashboard: Another challenge lies in scaling the dashboard to handle larger datasets and integrate new data sources seamlessly. As more data gets added—such as real-time pollution levels or health data—the dashboard must be able to handle larger volumes of information without compromising performance.
 Effective Communication: While the dashboard provides valuable insights, ensuring that users fully understand and act on this information requires effective communication. Presenting complex environmental and health data in a way that is both accessible and actionable will be key to maximizing its impact.
-
-Story: https://public.tableau.com/shared/RC478TN4T?:display_count=n&:origin=viz_share_link
-
-Why Tableau:
-For public access to the dashbboard and interactive features.
